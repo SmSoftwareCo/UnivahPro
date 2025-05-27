@@ -1,5 +1,5 @@
-# Univah Pro
-**The Univah Film Engine** (Univah Pro) is the industry standard Real-Time VFX, animation and rendering software for film studios, game designers and college students. 
+# Univah Pro™
+**The Univah Film Engine™** (Univah Pro) is the industry standard Real-Time VFX, animation and rendering software for film studios, game designers and college students. 
 [When ready, Univah Pro's free trial (.exe) will be published here for download:] 
 follow the journey and help shape the future of 3D!
 ![univah](https://github.com/user-attachments/assets/62e42949-262a-494b-a746-8ab01c855599)
@@ -30,7 +30,7 @@ Create anywhere, render in Univah.
 - One-click to turn of all lights in the scene ( Univah Kill Switch)
 - Edit each light's shadows, add subsurface scattering, screen space reflections, global illumination
 - One-click planatary rendering to scale ( render entire planets cinematically with film quality in real-time )
-- Custom-made and trade marked rReligion VFX engine and chemistry lab ( univah exclusive features not found in any other software on the market) Designed inhouse 
+- Custom-made and trade marked rReligion VFX™ engine and chemistry lab ( univah exclusive features not found in any other software on the market) Designed inhouse 
 - ect... much more
   ![Screenshot 2025-05-20 234020](https://github.com/user-attachments/assets/d231dcc7-f43f-44d8-b1cb-7bad66b6ae9d)
   ![Screenshot 2025-05-20 235511](https://github.com/user-attachments/assets/9b38de92-6449-4689-8d06-50904f090a08)
