@@ -1,5 +1,7 @@
 # Univah Pro
-**The Univah Film Engine** (Univah Pro) is the industry standard Real-Time VFX, animation and rendering software for film studios, game designers and college students.
+**The Univah Film Engine** (Univah Pro) is the industry standard Real-Time VFX, animation and rendering software for film studios, game designers and college students. 
+[When ready, Univah Pro's free trial (.exe) will be published here for download:] 
+follow the journey and help shape the future of 3D!
 ![univah](https://github.com/user-attachments/assets/62e42949-262a-494b-a746-8ab01c855599)
 # What Is Univah?
 **Univah** is the fastest real-time 3D animation, VFX and rendering software built for speed creators and Film Directors. Univah is tailor made for professional filmmakers who need powerful real-time production quality features and graphics without an overly complex User Interface, long learning curve or overwhelming node-based workflows. Univah Pro is the final step in the animation pipeline. 
@@ -55,10 +57,17 @@ Create anywhere, render in Univah.
   ## Demo & Showcase
   [Watch Univah Pro in action on youtube] https://youtu.be/GAhR_LSiFqw?si=ahHL0_yut_yURKsl
 
+  ## About
+  Univah Pro is currently in active development by The Stephanie Michaels Software Company, located in Houston Texas. 
+  The Development of Univah started in 2022 and its early versions were not very good. The Development team worked hard and started over 4 times.
+  Making elite softwares on the same level as Houdini and Maya is not an easy task. However, since making a real-time version of Maya and Houdini was the goal, after yeas of research and several major rewrites,
+  Univah Pro has achieved and to a degree, even surpassed softwares like Autodesk Maya, Blender and Houdini in speed, Real-Time Render Quality, Ease of Use, Workflow and cleanliness.  
+
   ## More Info
   - [Website] https://smsoftwarecompany.com/
   - [Developed by Stephanie Iketuonye Michaels] https://about.me/stephaniemichaels
   - [Twitter / X ] https://x.com/UnivahPro
   - [Ariticles about Univah ] https://medium.com/@smsoftware
+  - [EULA - End User License Agreement] https://smsoftwarecompany.com/eula/
 
-    *Univah Pro is the world's first ever film engine, read the articles above to learn what a film engine is. *
+    *Univah Pro is the world's first ever film engine, read the articles above to learn how The Stephanie Michaels Software Company defines what a Film Engine is. *
