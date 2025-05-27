@@ -63,6 +63,11 @@ Create anywhere, render in Univah.
   Making elite softwares on the same level as Houdini and Maya is not an easy task. However, since making a real-time version of Maya and Houdini was the goal, after yeas of research and several major rewrites,
   Univah Pro has achieved and to a degree, even surpassed softwares like Autodesk Maya, Blender and Houdini in speed, Real-Time Render Quality, Ease of Use, Workflow and cleanliness.  
 
+  ## Univah Pro Free Trial
+  Get the first glimpse of  **Univah Pro** with official welcome splash screen preview!
+  [**Downlaod Splash Teaser(windows)**] https://github.com/SmSoftwareCo/UnivahPro/releases/tag/v1.0.0-splashscreen
+  >Note: This is not the official trial, this is just a sneak peek to get you excited. Try downloading the splash screen. In this same manner will our free trial be offered to the public.
+  
   ## More Info
   - [Website] https://smsoftwarecompany.com/
   - [Developed by Stephanie Iketuonye Michaels] https://about.me/stephaniemichaels
