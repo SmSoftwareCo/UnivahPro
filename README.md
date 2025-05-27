@@ -46,7 +46,7 @@ Create anywhere, render in Univah.
   ![Screenshot 2025-05-07 141709](https://github.com/user-attachments/assets/153801da-ee27-4c29-b3c5-6807077a6299)
 
   ## Why Univah Pro?
-  Unlike traditional 3D tools that rely heavily on complex node graphs and come bloated with too many of UI buttons, endless menus and submenus;
+  Unlike traditional 3D tools that rely heavily on complex node graphs and come bloated with too many UI buttons, endless menus and submenus;
   Univah Pro is clean, intuitive, and built to empower artists and animators who want production quality results fast. No more tediously slow cpu rendering,
   long wait times, or render farms.
 
