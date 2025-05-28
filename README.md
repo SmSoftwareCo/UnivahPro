@@ -65,7 +65,7 @@ Create anywhere, render in Univah.
 
   ## Univah Pro Free Trial
   Get the first glimpse of  **Univah Pro** with official welcome splash screen preview! 
-  [**Downlaod Splash Teaser(windows)**] ![GitHub all releases](https://img.shields.io/github/downloads/SmSoftwareCo/UnivahPro/total?color=blue&style=flat-square)https://github.com/SmSoftwareCo/UnivahPro/releases/tag/v1.0.0-splashscreen
+  [**Downlaod Splash Teaser(windows)**] 
   >Note: This is not the official trial, this is just a sneak peek to get you excited. Try downloading the splash screen. In this same manner will our free trial be offered to the public.
   
   ## More Info
@@ -77,3 +77,4 @@ Create anywhere, render in Univah.
 
 
     *Univah Pro is the world's first ever film engine, read the articles above to learn how The Stephanie Michaels Software Company defines what a Film Engine is. *
+    ![GitHub all releases](https://img.shields.io/github/downloads/SmSoftwareCo/UnivahPro/total?color=blue&style=flat-square)https://github.com/SmSoftwareCo/UnivahPro/releases/tag/v1.0.0-splashscreen
