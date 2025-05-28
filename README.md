@@ -64,7 +64,7 @@ Create anywhere, render in Univah.
   Univah Pro has achieved and to a degree, even surpassed softwares like Autodesk Maya, Blender and Houdini in speed, Real-Time Render Quality, Ease of Use, Workflow and cleanliness.  
 
   ## Univah Pro Free Trial
-  Get the first glimpse of  **Univah Pro** with official welcome splash screen preview!
+  Get the first glimpse of  **Univah Pro** with official welcome splash screen preview! ![GitHub all releases](https://img.shields.io/github/downloads/SmSoftwareCo/UnivahPro/total?color=blue&style=flat-square)
   [**Downlaod Splash Teaser(windows)**] https://github.com/SmSoftwareCo/UnivahPro/releases/tag/v1.0.0-splashscreen
   >Note: This is not the official trial, this is just a sneak peek to get you excited. Try downloading the splash screen. In this same manner will our free trial be offered to the public.
   
