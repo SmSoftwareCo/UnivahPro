@@ -75,6 +75,5 @@ Create anywhere, render in Univah.
   - [Ariticles about Univah ] https://medium.com/@smsoftware
   - [EULA - End User License Agreement] https://smsoftwarecompany.com/eula/
 
-![GitHub all releases](https://img.shields.io/github/downloads/SmSoftwareCo/UnivahPro/total?color=blue&style=flat-square)
 
     *Univah Pro is the world's first ever film engine, read the articles above to learn how The Stephanie Michaels Software Company defines what a Film Engine is. *
