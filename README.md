@@ -65,7 +65,7 @@ Create anywhere, render in Univah.
 
   ## Univah Pro Free Trial
   Get the first glimpse of  **Univah Pro** with official welcome splash screen preview! 
-  [**Downlaod Splash Teaser(windows)**] 
+  [**Downlaod Splash Teaser(windows)**] https://github.com/SmSoftwareCo/UnivahPro/releases/tag/v1.0.0-splashscreen
   >Note: This is not the official trial, this is just a sneak peek to get you excited. Try downloading the splash screen. In this same manner will our free trial be offered to the public.
   
   ## More Info
