@@ -1,5 +1,5 @@
 # Univah Pro™
-**The Univah Film Engine™** (built from scratch) is the industry standard Real-Time VFX, animation and rendering software for film studios, game designers and college students. 
+**The Univah Film Engine™** (built from scratch) “Powered by rReligionVFX™ | A Univah Pro Technology” is the industry standard Real-Time VFX, animation and rendering software for film studios, game designers and college students. 
 [When ready, Univah Pro's free trial (.exe) will be published here for download:] 
 follow the journey and help shape the future of 3D!
 ![univah](https://github.com/user-attachments/assets/62e42949-262a-494b-a746-8ab01c855599)
