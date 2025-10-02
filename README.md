@@ -12,9 +12,6 @@ high-quality rendering, and production workflows unique to film.
 Film engines allow directors, animators, and visual effects professionals to create,
 edit, and render complex sequences in real time. This approach reduces the need for lengthy
 offline rendering and makes it possible to preview, adjust, and finalize shots interactively during production.
-![Screenshot 2025-05-01 000043](https://github.com/user-attachments/assets/0a9b3760-2590-4b06-8c2f-514d33fafc93)
-
-
 https://smsoftwarecompany.com/what-is-a-film-engine/
 
 # Univah Pro: The First Film Engine
