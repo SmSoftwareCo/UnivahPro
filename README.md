@@ -3,6 +3,16 @@
 [When ready, Univah Pro's free trial (.exe) will be published here for download:] 
 follow the journey and help shape the future of 3D!
 ![univah](https://github.com/user-attachments/assets/62e42949-262a-494b-a746-8ab01c855599)
+# What Is A Film Engine?
+A film engine is a category of real-time computer software designed specifically for filmmaking,
+animation, and visual effects. Unlike game engines, which were originally created to
+power interactive gameplay, a film engine is optimized for cinematic storytelling,
+high-quality rendering, and production workflows unique to film.
+
+Film engines allow directors, animators, and visual effects professionals to create,
+edit, and render complex sequences in real time. This approach reduces the need for lengthy
+offline rendering and makes it possible to preview, adjust, and finalize shots interactively during production.
+
 # What Is Univah?
 **Univah** is the fastest real-time 3D animation, VFX and rendering software built for speed creators and Film Directors. Univah is tailor made for professional filmmakers who need powerful real-time production quality features and graphics without an overly complex User Interface, long learning curve or overwhelming node-based workflows. Univah Pro is the final step in the animation pipeline. 
 Create anywhere, render in Univah. 
